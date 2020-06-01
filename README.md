@@ -5,7 +5,8 @@ objetivo auxiliar de maneira prática o estudo dessa técnica.
 
 # :computer: Programas
 
-  1º Implementação de um tutorial webscreaping
+    1 - Tutorial
+    Implementação de um tutorial webscreaping
 
-  2º Aplicação do aprendizado no site específicado
-     https://www.tudoreceitas.com/
+    2 - Tudo Receitas
+    Aplicação do aprendizado no site específicado
