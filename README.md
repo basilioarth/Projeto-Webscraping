@@ -1,4 +1,4 @@
-# :notebook_with_decorative_cover: Projeto-Webscraping :beginner:
+# :notebook_with_decorative_cover: :beginner: Projeto-Webscraping 
 
 Webscraping é uma técnica de extração de dados utilizada na coleta de informações de sites. O projeto em questão tem como 
 objetivo auxiliar de maneira prática o estudo dessa técnica.
